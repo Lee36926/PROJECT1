@@ -8,6 +8,7 @@
         LabelIC.Text = FormMain.txtIC.Text
         LabelAddress.Text = FormMain.txtAddress.Text
         LabelAge.Text = FormMain.NudAge.Value
+
         LabelEmail.Text = FormMain.txtEmail.Text
         LabelPhone.Text = FormMain.txtPhone.Text
         If FormMain.radioMale.Checked = True Then
